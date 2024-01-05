@@ -1,0 +1,17 @@
+{
+  "names": [
+    "Metehan", "İrem", "Ahmet", "Mehmet", "Mustafa", "Ayşe", "Fatma", "Ali", "Aylin", "Burak", "Cem", "Deniz",
+    "Emine", "Ferhat", "Gizem", "Hakan", "Irmak", "Jale", "Kaan", "Leyla", "Mert", "Nihan",
+    "Ozan", "Pelin", "Rıza", "Şeyma", "Tolga", "Umay", "Volkan", "Yasemin", "Zafer", "Zeynep"
+  ],
+  "surnames": [
+    "Saral", "Öztürk", "Yılmaz", "Kaya", "Demir", "Çelik", "Şahin", "Aydın", "Çetin", "Aslan", "Türk", "Acar",
+    "Koç", "Yıldırım", "Kurt", "Akgül", "Bulut", "Öztürk", "Can", "Güzel", "Karahan", "Kurtuluş",
+    "Durmaz", "Çalışkan", "Taş", "Özkan", "Aktaş", "Erdem", "Çınar", "Bilgin", "Gündoğdu", "Özdemir"
+  ],
+  "jobs": [
+    "Doctor", "Engineer", "Teacher", "Nurse", "Programmer", "Graphic Designer", "Lawyer", "Pilot", "Police Officer", "Dentist",
+    "Pharmacist", "Writer", "Researcher", "Manager", "Chef", "Entrepreneur", "Actor", "Photographer", "Architect", "Psychologist",
+    "Voice Actor", "Musician", "Flight Instructor", "Data Analyst", "Data Scientist", "Animator", "Game Developer", "Investment Advisor", "Project Manager", "Advertiser"
+  ]
+}
